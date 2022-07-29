@@ -1,0 +1,14 @@
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\bin\Debug\net5.0\Northwind.Repository.deps.json
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\bin\Debug\net5.0\Northwind.Repository.dll
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\bin\Debug\net5.0\ref\Northwind.Repository.dll
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\bin\Debug\net5.0\Northwind.Repository.pdb
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\bin\Debug\net5.0\Northwind.Models.dll
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\bin\Debug\net5.0\Northwind.Models.pdb
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\obj\Debug\net5.0\Northwind.Repository.csproj.AssemblyReference.cache
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\obj\Debug\net5.0\Northwind.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\obj\Debug\net5.0\Northwind.Repository.AssemblyInfoInputs.cache
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\obj\Debug\net5.0\Northwind.Repository.AssemblyInfo.cs
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\obj\Debug\net5.0\Northwind.Repository.csproj.CoreCompileInputs.cache
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\obj\Debug\net5.0\Northwind.Repository.dll
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\obj\Debug\net5.0\ref\Northwind.Repository.dll
+C:\Development\Training\Back\Northwind2021\Northwind\Northwind.Repository\obj\Debug\net5.0\Northwind.Repository.pdb

@@ -1,0 +1,15 @@
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\bin\Debug\net5.0\Northwind.Models.deps.json
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\bin\Debug\net5.0\Northwind.Models.runtimeconfig.json
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\bin\Debug\net5.0\Northwind.Models.runtimeconfig.dev.json
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\bin\Debug\net5.0\Northwind.Models.dll
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\bin\Debug\net5.0\ref\Northwind.Models.dll
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\bin\Debug\net5.0\Northwind.Models.pdb
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\obj\Debug\net5.0\Northwind.Models.csproj.AssemblyReference.cache
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\obj\Debug\net5.0\Northwind.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\obj\Debug\net5.0\Northwind.Models.AssemblyInfoInputs.cache
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\obj\Debug\net5.0\Northwind.Models.AssemblyInfo.cs
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\obj\Debug\net5.0\Northwind.Models.csproj.CoreCompileInputs.cache
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\obj\Debug\net5.0\Northwind.Models.dll
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\obj\Debug\net5.0\ref\Northwind.Models.dll
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\obj\Debug\net5.0\Northwind.Models.pdb
+C:\Development\Training\Back\Northwind2021\Northwind\NorthwindModels\obj\Debug\net5.0\Northwind.Models.genruntimeconfig.cache
